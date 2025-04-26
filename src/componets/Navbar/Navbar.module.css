@@ -1,0 +1,54 @@
+@import "../../vars.css";
+
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  z-index: 2;
+  margin: 0 10%;
+}
+.title {
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--color-text);
+  text-decoration: none;
+  margin-left: -70px;
+}
+.menu {
+  display: flex;
+}
+.menuItems {
+  display: flex;
+  gap: 25px;
+  list-style: none;
+  margin-right: -90px;
+}
+.menuItems a {
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+}
+
+.menuItems a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  width: 0;
+  height: 2px;
+  background-color: var(--color-text);
+  transition: width 0.3s ease-in-out;
+}
+
+.menuItems a:hover::after {
+  width: 100%;
+}
+
+.menuItems a {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 18px;
+}

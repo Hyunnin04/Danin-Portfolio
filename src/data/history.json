@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Trainer",
+    "organisation": "Sister of Code Program",
+    "startDate": "Nov 2023",
+    "endDate": "Apr 2024",
+    "experiences": [
+      "Taught junior students basic web design",
+      "Skilled: HTML, CSS, Wix, Team Leadership"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Trainer",
+    "organisation": "Next-Gen Engagement Program",
+    "startDate": "Aug, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": [
+      "Mentored juniors on database design",
+      "Skilled: MySQL, UML, Basic Database"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Electronics & Logistics",
+    "organisation": "Robocon Cambodia",
+    "startDate": "Jan, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Designed PCB for robot01",
+      "Managed electronic and mechanical tools",
+      "Skills : KiCad, Fusion 360, Electronics, Teamwork"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Trainer & Mentor",
+    "organisation": "Khoding Hero - CADT",
+    "startDate": "Jan, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Taught Scratch programming to children",
+      "fostering interest in coding and technology",
+      "Skills : Scratch, Algorithm, STEM, Teamwork"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

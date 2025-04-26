@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Mood Tracker App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to to track daily moods, built with UX in mind.",
+    "skills": ["Flutter", "Figma"],
+    "source": "https://github.com/Hyunnin04"
+  },
+  {
+    "title": "Cosmetic Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn simple Laravel-based cosmetic web store.",
+    "skills": ["Laravel", "MySQL", "PHP"],
+    "source": "https://github.com/Hyunnin04/SkincareProduct.git"
+  },
+  {
+    "title": "Quiz App (School Project)",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn dart-based app to test student knowledge.",
+    "skills": ["Dart", "UML", "Flutter"],
+    "source": "https://github.com/Hyunnin04"
+  },
+  {
+    "title": "Capstone I Project",
+    "imageSrc": "projects/project.png",
+    "description": "We developed a Khmer speaker embedding model using ECAPA-TDNN, a web app for speaker verification.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "source": "https://github.com/Hyunnin04"
+  }
+]
